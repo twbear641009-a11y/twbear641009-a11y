@@ -1,5 +1,4 @@
-<!-- 有 logo 圖檔後，放進這個 repo 並取消下面這行的註解 -->
-<!-- <p align="center"><img src="./cl-labs-logo.png" alt="CL Labs" width="160"></p> -->
+<p align="center"><img src="./cl-labs-logo.png" alt="CL Labs" width="160"></p>
 
 <h1 align="center">CL Labs</h1>
 
