@@ -1,4 +1,10 @@
-<p align="center"><img src="./cl-labs-logo.png" alt="CL Labs" width="160"></p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./CL_Labs_dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./CL_Labs.svg">
+    <img src="./CL_Labs.svg" alt="CL Labs" width="160">
+  </picture>
+</p>
 
 <h1 align="center">CL Labs</h1>
 
